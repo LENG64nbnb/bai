@@ -3,4 +3,5 @@ return {
 ["KS_G000"] = true,
 ["KS_G66"] = true,
 ["1qaztuc"] = true,
+["MRTBBBBBBBBBS"] = true,
 }
